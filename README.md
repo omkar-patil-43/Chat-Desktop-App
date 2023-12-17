@@ -2,7 +2,7 @@
 
 ---
 
-### Chat Client Application Presentation
+### Chat Client-Server Application Presentation
 
 #### Introduction:
 Greetings! I'm excited to introduce a simple chat client application developed in Java. This application allows users to exchange messages in a chat-like interface with real-time updates. The application features a sleek design and utilizes Java's `Socket` for networking.

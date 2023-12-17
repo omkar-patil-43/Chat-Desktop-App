@@ -1,4 +1,3 @@
-Certainly! Let's structure the information in a way that you can present the text editor application professionally to interviewers:
 
 ---
 
